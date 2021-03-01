@@ -1,8 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...Building a chatbox!
 - 🌱 I’m currently learning ...More Deep Learning Models!
 - 👯 I’m looking to collaborate on ...Machine Learning!
