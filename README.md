@@ -34,10 +34,10 @@ Production-style reference architecture combining:
 The project explores how enterprise AI systems can move beyond standalone chatbot experiences into governed operational workflows.
 
 🔗 Repository:
-enterprise-ai-support-copilot-snowflake
+[enterprise-ai-support-copilot-snowflake](https://github.com/mikemillerjr16/enterprise-ai-support-copilot-snowflake)
 
 ## Core Technologies
 Snowflake • Databricks • AWS • Python • MLflow • Streamlit • RAG • Vector Search • LLMs • MLOps • LangChain • LangGraph • Cortex AI • PySpark
 
 ## Connect
-- LinkedIn: linkedin.com/in/mikemillerjr16
+- LinkedIn: [inkedin.com/in/mikemillerjr16](https://www.linkedin.com/in/mikemillerjr16/)
